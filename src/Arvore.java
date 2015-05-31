@@ -1,4 +1,4 @@
-class Arvore{
+class Arvore implements IArvore{
 	No raiz;
 
     public Arvore(int k){
